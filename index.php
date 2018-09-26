@@ -30,6 +30,10 @@ and open the template in the editor.
                     
                 }
                 
+                public function esborrar(){
+                    
+                }
+                
             }
         ?>
     </body>
