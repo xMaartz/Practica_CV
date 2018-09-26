@@ -11,16 +11,25 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+            
+            // Atributs
             class joc {
                 public $plataforma;
                 public $unitats;
                 public $preu;
                 
+            // Constructor
                 public function _construct($plataforma, $unitats, $preu){
                     $this->plataforma = $plataforma;
                     $this->unitats = $unitats;
                     $this->preu = $preu;
                 }
+                
+            // Mètodes
+                public function afegir(){
+                    
+                }
+                
             }
         ?>
     </body>
