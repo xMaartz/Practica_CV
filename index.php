@@ -37,6 +37,10 @@ and open the template in the editor.
                 public function ordenar(){
                     
                 }
+                
+                public function fantasma(){
+                    
+                }
             }
         ?>
     </body>
